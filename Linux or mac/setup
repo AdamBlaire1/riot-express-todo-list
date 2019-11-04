@@ -14,5 +14,5 @@ Also to Transfer Files.
 
 scp -r -i ~/hs-key.pem hackathon-starter  ubuntu@ec2-3-80-248-147.compute-1.amazonaws.com
 
-If you have the deploy.js, type node deploy.js
-it will set everything up for you !
+If you have the deploy.js, type " node deploy.js ", this will Add files>
+it will set everything up for you do not for get it !

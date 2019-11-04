@@ -83,7 +83,7 @@ function sshConnect() {
 
   ssh
     .connect({
-      host: '3.83.132.227',
+      host: '3.91.178.96',
       username: 'ubuntu',
       privateKey: 'C:\\Users\\Jeremy\\.ssh\\ec2-3-84-149-104.pem',
     })
