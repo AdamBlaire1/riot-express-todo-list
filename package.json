@@ -7,7 +7,7 @@
     "test": "exit 0",
     "start": "node app.js"
   },
-  "author": "Pedro Narciso García Revington <p.revington@gmail.com>",
+  "author": "AdamBlaire",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",

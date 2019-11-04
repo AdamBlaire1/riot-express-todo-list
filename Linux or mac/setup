@@ -1,0 +1,18 @@
+type bash in to terminal,
+
+cp hs-key.pem ~/.ssh
+
+cd ~/.ssh
+
+chmod 600 hs-key.pem
+
+ssh -i hs-key.pem ubuntu@3.84.149.104
+
+This will get you into your instance.
+
+Also to Transfer Files.
+
+scp -r -i ~/hs-key.pem hackathon-starter  ubuntu@ec2-3-80-248-147.compute-1.amazonaws.com
+
+If you have the deploy.js, type node deploy.js
+it will set everything up for you !

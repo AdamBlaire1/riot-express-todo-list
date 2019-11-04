@@ -1,0 +1,27 @@
+Frist thing you need to do is down load puttygen.exe.
+
+Next thing is you need to down load putty.
+
+Then you to make a key file from aws like hs-key.
+ 
+Open puttygen.exe and add the key you made from aws.
+
+It will turn the key file in to a ppk file, name it anthing you like.
+
+Open up putty add the ppk you made to thee SSH folder Auth,
+go to data and add the user name ubuntu.
+
+Lastly go to AWS get the IP address 
+ SOMETHING LIKE DOWN BELOW!
+"ec2-52-90-195-48.compute-1.amazonaws.com"
+Go to the Sessoions tab add IP address to were Is says,
+"Host Name (or IP address)",
+Hit save name your key then hit load.
+
+
+
+
+
+
+
+
